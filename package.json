@@ -1,0 +1,24 @@
+{
+  "name": "upload-to-oss-plugin",
+  "version": "1.0.0",
+  "description": "upload to aliyun oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "aliyun-oss",
+    "oss",
+    "aliyun",
+    "plugin"
+  ],
+  "author": "shuo.peng",
+  "license": "ISC",
+  "devDependencies": {
+    "ali-oss": "^6.16.0",
+    "chalk": "^4.1.1",
+    "glob": "^7.1.7",
+    "ora": "^5.4.1"
+  }
+}
