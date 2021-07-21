@@ -1,6 +1,6 @@
 {
   "name": "upload-to-oss-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "upload to aliyun oss",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
     "chalk": "^4.1.1",
     "glob": "^7.1.7",
     "ora": "^5.4.1"
+  },
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/PENGSHUO/upload-to-oss-plugin.git"
   }
 }
